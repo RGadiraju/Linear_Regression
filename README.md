@@ -1,1 +1,1 @@
-# Linear_Regression
+Practicing using linear regression 
